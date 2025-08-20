@@ -55,14 +55,19 @@ Algoritmos-y-Estructuras-de-Datos/
 │   └── Patinaje-AYED/
 └── Monitoria/
     └── DDYA/
-        └── Autoestudios/
-            ├── DDYA-Autoestudio-1-incremental.ipynb
-            ├── DDYA-Autoestudio-2-divide-and-conquer.ipynb
-            ├── DDYA-Autoestudio-3-dynamic-programming.ipynb
-            ├── DDYA-Autoestudio-4-linear-structures.ipynb
-            ├── DDYA-Autoestudio-5-trees.ipynb
-            ├── DDYA-Autoestudio-6-graphs.ipynb
-            └── DDYA-Autoestudio-7-sssp.ipynb
+        ├── Autoestudios/
+        │   ├── DDYA-Autoestudio-1-incremental.ipynb
+        │   ├── DDYA-Autoestudio-2-divide-and-conquer.ipynb
+        │   ├── DDYA-Autoestudio-3-dynamic-programming.ipynb
+        │   ├── DDYA-Autoestudio-4-linear-structures.ipynb
+        │   ├── DDYA-Autoestudio-5-trees.ipynb
+        │   ├── DDYA-Autoestudio-6-graphs.ipynb
+        │   └── DDYA-Autoestudio-7-sssp.ipynb
+        └── Arenas/
+            └── T1/
+                ├── B-TEX-Quotes.pdf
+                ├── ...
+                └── Z-Coin-Change.pdf
 ```
 
 ## Temas del curso
