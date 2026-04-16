@@ -51,8 +51,18 @@ Algoritmos-y-Estructuras-de-Datos/
 ├── Recursos/
 │   ├── Disjoint-Sets-AYED/
 │   └── Hash-Tables-AYED/
-└── Proyectos/
-    └── Patinaje-AYED/
+├── Proyectos/
+│   └── Patinaje-AYED/
+└── Monitoria/
+    └── DDYA/
+        └── Autoestudios/
+            ├── DDYA-Autoestudio-1-incremental.ipynb
+            ├── DDYA-Autoestudio-2-divide-and-conquer.ipynb
+            ├── DDYA-Autoestudio-3-dynamic-programming.ipynb
+            ├── DDYA-Autoestudio-4-linear-structures.ipynb
+            ├── DDYA-Autoestudio-5-trees.ipynb
+            ├── DDYA-Autoestudio-6-graphs.ipynb
+            └── DDYA-Autoestudio-7-sssp.ipynb
 ```
 
 ## Temas del curso
@@ -72,6 +82,7 @@ Algoritmos-y-Estructuras-de-Datos/
 - Cada repositorio corresponde a una actividad puntual (arena, control de lectura, informe, laboratorio, parcial, preparcial o práctica en clase); el tipo de actividad está indicado en la descripción de cada repositorio, no en su nombre.
 - Cuando dos archivos eran versiones sucesivas de un mismo ejercicio (el segundo extendía al primero con nueva funcionalidad), se conservaron en un solo repositorio con dos commits secuenciales para mantener la trazabilidad de esa evolución, en vez de crear repositorios separados.
 - El proyecto del curso (`Patinaje-AYED`) tiene una estructura de README distinta a la del resto de actividades académicas, ya que corresponde a un proyecto de software y no a una entrega puntual.
+- La carpeta `Monitoria/DDYA/` no es un submódulo: son archivos propios de este repositorio, con el material elaborado como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con AYED.
 
 ## Herramientas
 
@@ -84,7 +95,7 @@ Sebastian Camilo Martinez Reyes.
 
 ## Cómo usar este repositorio
 
-Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`Arenas/`, `ControlesDeLectura/`, `Informes/`, `Laboratorios/`, `Parciales/`, `Preparciales/`, `PracticaEnClase/`, `Recursos/`, `Proyectos/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`Arenas/`, `ControlesDeLectura/`, `Informes/`, `Laboratorios/`, `Parciales/`, `Preparciales/`, `PracticaEnClase/`, `Recursos/`, `Proyectos/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad. La única excepción es `Monitoria/DDYA/`, que contiene archivos propios del repositorio (no un submódulo).
 
 - **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
 - **Para tener todo el contenido en tu máquina**:
