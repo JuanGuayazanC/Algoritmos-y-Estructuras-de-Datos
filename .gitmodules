@@ -1,0 +1,144 @@
+[submodule "Arenas/The-Power-Sum-AYED"]
+	path = Arenas/The-Power-Sum-AYED
+	url = https://github.com/JuanGuayazanC/The-Power-Sum-AYED.git
+	branch = main
+[submodule "Arenas/Throwing-Cards-Away-AYED"]
+	path = Arenas/Throwing-Cards-Away-AYED
+	url = https://github.com/JuanGuayazanC/Throwing-Cards-Away-AYED.git
+	branch = main
+[submodule "Arenas/Parentesis-Balanceados-AYED"]
+	path = Arenas/Parentesis-Balanceados-AYED
+	url = https://github.com/JuanGuayazanC/Parentesis-Balanceados-AYED.git
+	branch = main
+[submodule "Arenas/Lista-Enlazada-Basica-AYED"]
+	path = Arenas/Lista-Enlazada-Basica-AYED
+	url = https://github.com/JuanGuayazanC/Lista-Enlazada-Basica-AYED.git
+	branch = main
+[submodule "Arenas/Bicoloring-AYED"]
+	path = Arenas/Bicoloring-AYED
+	url = https://github.com/JuanGuayazanC/Bicoloring-AYED.git
+	branch = main
+[submodule "Arenas/Heap-AYED"]
+	path = Arenas/Heap-AYED
+	url = https://github.com/JuanGuayazanC/Heap-AYED.git
+	branch = main
+[submodule "Arenas/Conexiones-AYED"]
+	path = Arenas/Conexiones-AYED
+	url = https://github.com/JuanGuayazanC/Conexiones-AYED.git
+	branch = main
+[submodule "Arenas/Snipping-Tool-Print-Job-AYED"]
+	path = Arenas/Snipping-Tool-Print-Job-AYED
+	url = https://github.com/JuanGuayazanC/Snipping-Tool-Print-Job-AYED.git
+	branch = main
+[submodule "ControlesDeLectura/Insertion-Sort-Descendente-AYED"]
+	path = ControlesDeLectura/Insertion-Sort-Descendente-AYED
+	url = https://github.com/JuanGuayazanC/Insertion-Sort-Descendente-AYED.git
+	branch = main
+[submodule "ControlesDeLectura/Recursion-sobre-Arreglos-AYED"]
+	path = ControlesDeLectura/Recursion-sobre-Arreglos-AYED
+	url = https://github.com/JuanGuayazanC/Recursion-sobre-Arreglos-AYED.git
+	branch = main
+[submodule "ControlesDeLectura/Control-Estructuras-Lineales-AYED"]
+	path = ControlesDeLectura/Control-Estructuras-Lineales-AYED
+	url = https://github.com/JuanGuayazanC/Control-Estructuras-Lineales-AYED.git
+	branch = main
+[submodule "Informes/Taller-Recursion-AYED"]
+	path = Informes/Taller-Recursion-AYED
+	url = https://github.com/JuanGuayazanC/Taller-Recursion-AYED.git
+	branch = main
+[submodule "Laboratorios/Dividir-y-Conquistar-AYED"]
+	path = Laboratorios/Dividir-y-Conquistar-AYED
+	url = https://github.com/JuanGuayazanC/Dividir-y-Conquistar-AYED.git
+	branch = main
+[submodule "Laboratorios/Caracter-Frecuente-y-Palindromo-AYED"]
+	path = Laboratorios/Caracter-Frecuente-y-Palindromo-AYED
+	url = https://github.com/JuanGuayazanC/Caracter-Frecuente-y-Palindromo-AYED.git
+	branch = main
+[submodule "Laboratorios/Decoding-the-Message-AYED"]
+	path = Laboratorios/Decoding-the-Message-AYED
+	url = https://github.com/JuanGuayazanC/Decoding-the-Message-AYED.git
+	branch = main
+[submodule "Laboratorios/HashTable-y-Disjuntos-AYED"]
+	path = Laboratorios/HashTable-y-Disjuntos-AYED
+	url = https://github.com/JuanGuayazanC/HashTable-y-Disjuntos-AYED.git
+	branch = main
+[submodule "Laboratorios/Montones-Binarios-AYED"]
+	path = Laboratorios/Montones-Binarios-AYED
+	url = https://github.com/JuanGuayazanC/Montones-Binarios-AYED.git
+	branch = main
+[submodule "Laboratorios/Grafos-Adyacencia-y-Recorridos-AYED"]
+	path = Laboratorios/Grafos-Adyacencia-y-Recorridos-AYED
+	url = https://github.com/JuanGuayazanC/Grafos-Adyacencia-y-Recorridos-AYED.git
+	branch = main
+[submodule "Parciales/Parcial-Divide-y-Venceras-AYED"]
+	path = Parciales/Parcial-Divide-y-Venceras-AYED
+	url = https://github.com/JuanGuayazanC/Parcial-Divide-y-Venceras-AYED.git
+	branch = main
+[submodule "Parciales/Parcial-Estructuras-Enlazadas-AYED"]
+	path = Parciales/Parcial-Estructuras-Enlazadas-AYED
+	url = https://github.com/JuanGuayazanC/Parcial-Estructuras-Enlazadas-AYED.git
+	branch = main
+[submodule "Preparciales/Numeros-Primos-AYED"]
+	path = Preparciales/Numeros-Primos-AYED
+	url = https://github.com/JuanGuayazanC/Numeros-Primos-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Analisis-de-Complejidad-AYED"]
+	path = PracticaEnClase/Analisis-de-Complejidad-AYED
+	url = https://github.com/JuanGuayazanC/Analisis-de-Complejidad-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Clase-Estudiante-AYED"]
+	path = PracticaEnClase/Clase-Estudiante-AYED
+	url = https://github.com/JuanGuayazanC/Clase-Estudiante-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Fibonacci-AYED"]
+	path = PracticaEnClase/Fibonacci-AYED
+	url = https://github.com/JuanGuayazanC/Fibonacci-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Insertion-Sort-AYED"]
+	path = PracticaEnClase/Insertion-Sort-AYED
+	url = https://github.com/JuanGuayazanC/Insertion-Sort-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Caracter-Mas-Frecuente-en-Cadena-AYED"]
+	path = PracticaEnClase/Caracter-Mas-Frecuente-en-Cadena-AYED
+	url = https://github.com/JuanGuayazanC/Caracter-Mas-Frecuente-en-Cadena-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Area-de-Efecto-en-Matriz-AYED"]
+	path = PracticaEnClase/Area-de-Efecto-en-Matriz-AYED
+	url = https://github.com/JuanGuayazanC/Area-de-Efecto-en-Matriz-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Power-Sum-Recursivo-y-Memorizado-AYED"]
+	path = PracticaEnClase/Power-Sum-Recursivo-y-Memorizado-AYED
+	url = https://github.com/JuanGuayazanC/Power-Sum-Recursivo-y-Memorizado-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Grafos-BFS-DFS-y-Bellman-Ford-AYED"]
+	path = PracticaEnClase/Grafos-BFS-DFS-y-Bellman-Ford-AYED
+	url = https://github.com/JuanGuayazanC/Grafos-BFS-DFS-y-Bellman-Ford-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Arbol-Binario-AYED"]
+	path = PracticaEnClase/Arbol-Binario-AYED
+	url = https://github.com/JuanGuayazanC/Arbol-Binario-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Listas-Pilas-y-Colas-Enlazadas-AYED"]
+	path = PracticaEnClase/Listas-Pilas-y-Colas-Enlazadas-AYED
+	url = https://github.com/JuanGuayazanC/Listas-Pilas-y-Colas-Enlazadas-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Lista-Enlazada-con-Reversa-y-Union-AYED"]
+	path = PracticaEnClase/Lista-Enlazada-con-Reversa-y-Union-AYED
+	url = https://github.com/JuanGuayazanC/Lista-Enlazada-con-Reversa-y-Union-AYED.git
+	branch = main
+[submodule "PracticaEnClase/Arboles-con-Rotacion-AYED"]
+	path = PracticaEnClase/Arboles-con-Rotacion-AYED
+	url = https://github.com/JuanGuayazanC/Arboles-con-Rotacion-AYED.git
+	branch = main
+[submodule "Recursos/Disjoint-Sets-AYED"]
+	path = Recursos/Disjoint-Sets-AYED
+	url = https://github.com/JuanGuayazanC/Disjoint-Sets-AYED.git
+	branch = main
+[submodule "Recursos/Hash-Tables-AYED"]
+	path = Recursos/Hash-Tables-AYED
+	url = https://github.com/JuanGuayazanC/Hash-Tables-AYED.git
+	branch = main
+[submodule "Proyectos/Patinaje-AYED"]
+	path = Proyectos/Patinaje-AYED
+	url = https://github.com/JuanGuayazanC/Patinaje-AYED.git
+	branch = main
