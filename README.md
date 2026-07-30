@@ -1,6 +1,8 @@
-# Algoritmos y Estructuras de Datos
+# Algoritmos y Estructuras de Datos (AYED)
 
-Este repositorio agrupa, mediante submódulos de Git, las actividades del curso Algoritmos y Estructuras de Datos (AYED): arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos de apoyo y el proyecto del curso. Cada carpeta apunta al repositorio independiente de esa actividad, con su propio historial de commits y README.
+Repositorio general del curso Algoritmos y Estructuras de Datos (ISIS AYED-1 LEC y AYED-101 LAB), que agrupa —mediante submódulos de git— las arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos de apoyo y el proyecto del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
 
 ## Estructura del proyecto
 
