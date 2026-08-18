@@ -1,8 +1,8 @@
 # Algoritmos y Estructuras de Datos (AYED)
 
-Repositorio general del curso Algoritmos y Estructuras de Datos (ISIS AYED-1 LEC y AYED-101 LAB), que agrupa —mediante submódulos de git— las arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos de apoyo y el proyecto del curso.
+Repositorio general del curso Algoritmos y Estructuras de Datos, que agrupa —mediante submódulos de git— las arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos de apoyo y el proyecto del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -78,7 +78,16 @@ Algoritmos-y-Estructuras-de-Datos/
 - Python 3
 - Lectura de entrada estándar (`stdin`) para la resolución de problemas de jueces en línea (arenas)
 
-## Cómo clonar
+## Profesor
+
+Sebastian Camilo Martinez Reyes.
+
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`Arenas/`, `ControlesDeLectura/`, `Informes/`, `Laboratorios/`, `Parciales/`, `Preparciales/`, `PracticaEnClase/`, `Recursos/`, `Proyectos/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Algoritmos-y-Estructuras-de-Datos.git
