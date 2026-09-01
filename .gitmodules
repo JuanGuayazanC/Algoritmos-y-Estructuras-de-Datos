@@ -142,3 +142,7 @@
 	path = Proyectos/Patinaje-AYED
 	url = https://github.com/JuanGuayazanC/Patinaje-AYED.git
 	branch = main
+[submodule "Monitoria/DDYA"]
+	path = Monitoria/DDYA
+	url = https://github.com/JuanGuayazanC/Monitoria-DDYA.git
+	branch = main
