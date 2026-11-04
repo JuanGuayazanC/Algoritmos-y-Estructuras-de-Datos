@@ -8,6 +8,8 @@ Actividades del curso (cuando se llamaba AYED).
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Caracter Frecuente y Palindromo](Caracter-Frecuente-y-Palindromo-AYED) | Laboratorio | 2024-1 |
+| [Caracter Mas Frecuente en Cadena](Caracter-Mas-Frecuente-en-Cadena-AYED) | Práctica en clase | 2024-1 |
 | [Conexiones](Conexiones-AYED) | Arena | 2024-1 |
 | [Disjoint Sets](Disjoint-Sets-AYED) | Recurso | 2024-1 |
 | [Hash Tables](Hash-Tables-AYED) | Recurso | 2024-1 |

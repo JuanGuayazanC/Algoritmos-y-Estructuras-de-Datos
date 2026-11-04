@@ -17,6 +17,7 @@ Material del profesor, publicado con su autorización, solo enunciado y sin reso
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Autoestudio Arboles](Autoestudio-Arboles-DDYA) | Autoestudio | 2025-2 |
 | [Clase Base BinaryTree](Clase-Base-BinaryTree-DDYA) | Código base | 2026-2 |
 | [Control de Lectura Arboles](Control-de-Lectura-Arboles-DDYA) | Control de lectura | 2026-2 |
 | [Presentacion Arboles](Presentacion-Arboles-DDYA) | Presentación de clase | 2026-2 |

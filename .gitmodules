@@ -1,247 +1,282 @@
 [submodule "Arenas/The-Power-Sum-AYED"]
-	path = 01_Recursion/The-Power-Sum-AYED
+	path = 02_Recursion/The-Power-Sum-AYED
 	url = https://github.com/JuanGuayazanC/The-Power-Sum-AYED.git
 	branch = main
 [submodule "Arenas/Throwing-Cards-Away-AYED"]
-	path = 04_Estructuras_Lineales/Throwing-Cards-Away-AYED
+	path = 05_Estructuras_Lineales/Throwing-Cards-Away-AYED
 	url = https://github.com/JuanGuayazanC/Throwing-Cards-Away-AYED.git
 	branch = main
 [submodule "Arenas/Parentesis-Balanceados-AYED"]
-	path = 04_Estructuras_Lineales/Parentesis-Balanceados-AYED
+	path = 05_Estructuras_Lineales/Parentesis-Balanceados-AYED
 	url = https://github.com/JuanGuayazanC/Parentesis-Balanceados-AYED.git
 	branch = main
 [submodule "Arenas/Lista-Enlazada-Basica-AYED"]
-	path = 04_Estructuras_Lineales/Lista-Enlazada-Basica-AYED
+	path = 05_Estructuras_Lineales/Lista-Enlazada-Basica-AYED
 	url = https://github.com/JuanGuayazanC/Lista-Enlazada-Basica-AYED.git
 	branch = main
 [submodule "Arenas/Bicoloring-AYED"]
-	path = 06_Grafos/Bicoloring-AYED
+	path = 07_Grafos/Bicoloring-AYED
 	url = https://github.com/JuanGuayazanC/Bicoloring-AYED.git
 	branch = main
 [submodule "Arenas/Heap-AYED"]
-	path = 07_Montones_y_Colas_de_Prioridad/Heap-AYED
+	path = 08_Montones_y_Colas_de_Prioridad/Heap-AYED
 	url = https://github.com/JuanGuayazanC/Heap-AYED.git
 	branch = main
 [submodule "Arenas/Conexiones-AYED"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/Conexiones-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Conexiones-AYED
 	url = https://github.com/JuanGuayazanC/Conexiones-AYED.git
 	branch = main
 [submodule "Arenas/Snipping-Tool-Print-Job-AYED"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/Snipping-Tool-Print-Job-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Snipping-Tool-Print-Job-AYED
 	url = https://github.com/JuanGuayazanC/Snipping-Tool-Print-Job-AYED.git
 	branch = main
 [submodule "ControlesDeLectura/Insertion-Sort-Descendente-AYED"]
-	path = 00_Fundamentos_y_Analisis/Insertion-Sort-Descendente-AYED
+	path = 01_Analisis_y_Estrategia_Incremental/Insertion-Sort-Descendente-AYED
 	url = https://github.com/JuanGuayazanC/Insertion-Sort-Descendente-AYED.git
 	branch = main
 [submodule "ControlesDeLectura/Recursion-sobre-Arreglos-AYED"]
-	path = 01_Recursion/Recursion-sobre-Arreglos-AYED
+	path = 02_Recursion/Recursion-sobre-Arreglos-AYED
 	url = https://github.com/JuanGuayazanC/Recursion-sobre-Arreglos-AYED.git
 	branch = main
 [submodule "ControlesDeLectura/Control-Estructuras-Lineales-AYED"]
-	path = 04_Estructuras_Lineales/Control-Estructuras-Lineales-AYED
+	path = 05_Estructuras_Lineales/Control-Estructuras-Lineales-AYED
 	url = https://github.com/JuanGuayazanC/Control-Estructuras-Lineales-AYED.git
 	branch = main
 [submodule "Informes/Taller-Recursion-AYED"]
-	path = 01_Recursion/Taller-Recursion-AYED
+	path = 02_Recursion/Taller-Recursion-AYED
 	url = https://github.com/JuanGuayazanC/Taller-Recursion-AYED.git
 	branch = main
 [submodule "Laboratorios/Dividir-y-Conquistar-AYED"]
-	path = 02_Dividir_y_Conquistar/Dividir-y-Conquistar-AYED
+	path = 03_Dividir_y_Conquistar/Dividir-y-Conquistar-AYED
 	url = https://github.com/JuanGuayazanC/Dividir-y-Conquistar-AYED.git
 	branch = main
 [submodule "Laboratorios/Caracter-Frecuente-y-Palindromo-AYED"]
-	path = 00_Fundamentos_y_Analisis/Caracter-Frecuente-y-Palindromo-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Caracter-Frecuente-y-Palindromo-AYED
 	url = https://github.com/JuanGuayazanC/Caracter-Frecuente-y-Palindromo-AYED.git
 	branch = main
 [submodule "Laboratorios/Decoding-the-Message-AYED"]
-	path = 00_Fundamentos_y_Analisis/Decoding-the-Message-AYED
+	path = 00_Fundamentos_de_Programacion/Decoding-the-Message-AYED
 	url = https://github.com/JuanGuayazanC/Decoding-the-Message-AYED.git
 	branch = main
 [submodule "Laboratorios/HashTable-y-Disjuntos-AYED"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/HashTable-y-Disjuntos-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/HashTable-y-Disjuntos-AYED
 	url = https://github.com/JuanGuayazanC/HashTable-y-Disjuntos-AYED.git
 	branch = main
 [submodule "Laboratorios/Montones-Binarios-AYED"]
-	path = 07_Montones_y_Colas_de_Prioridad/Montones-Binarios-AYED
+	path = 08_Montones_y_Colas_de_Prioridad/Montones-Binarios-AYED
 	url = https://github.com/JuanGuayazanC/Montones-Binarios-AYED.git
 	branch = main
 [submodule "Laboratorios/Grafos-Adyacencia-y-Recorridos-AYED"]
-	path = 06_Grafos/Grafos-Adyacencia-y-Recorridos-AYED
+	path = 07_Grafos/Grafos-Adyacencia-y-Recorridos-AYED
 	url = https://github.com/JuanGuayazanC/Grafos-Adyacencia-y-Recorridos-AYED.git
 	branch = main
 [submodule "Parciales/Parcial-Divide-y-Venceras-AYED"]
-	path = 02_Dividir_y_Conquistar/Parcial-Divide-y-Venceras-AYED
+	path = 03_Dividir_y_Conquistar/Parcial-Divide-y-Venceras-AYED
 	url = https://github.com/JuanGuayazanC/Parcial-Divide-y-Venceras-AYED.git
 	branch = main
 [submodule "Parciales/Parcial-Estructuras-Enlazadas-AYED"]
-	path = 04_Estructuras_Lineales/Parcial-Estructuras-Enlazadas-AYED
+	path = 05_Estructuras_Lineales/Parcial-Estructuras-Enlazadas-AYED
 	url = https://github.com/JuanGuayazanC/Parcial-Estructuras-Enlazadas-AYED.git
 	branch = main
 [submodule "Preparciales/Numeros-Primos-AYED"]
-	path = 00_Fundamentos_y_Analisis/Numeros-Primos-AYED
+	path = 00_Fundamentos_de_Programacion/Numeros-Primos-AYED
 	url = https://github.com/JuanGuayazanC/Numeros-Primos-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Analisis-de-Complejidad-AYED"]
-	path = 00_Fundamentos_y_Analisis/Analisis-de-Complejidad-AYED
+	path = 01_Analisis_y_Estrategia_Incremental/Analisis-de-Complejidad-AYED
 	url = https://github.com/JuanGuayazanC/Analisis-de-Complejidad-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Clase-Estudiante-AYED"]
-	path = 00_Fundamentos_y_Analisis/Clase-Estudiante-AYED
+	path = 00_Fundamentos_de_Programacion/Clase-Estudiante-AYED
 	url = https://github.com/JuanGuayazanC/Clase-Estudiante-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Fibonacci-AYED"]
-	path = 03_Programacion_Dinamica/Fibonacci-AYED
+	path = 04_Programacion_Dinamica/Fibonacci-AYED
 	url = https://github.com/JuanGuayazanC/Fibonacci-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Insertion-Sort-AYED"]
-	path = 00_Fundamentos_y_Analisis/Insertion-Sort-AYED
+	path = 01_Analisis_y_Estrategia_Incremental/Insertion-Sort-AYED
 	url = https://github.com/JuanGuayazanC/Insertion-Sort-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Caracter-Mas-Frecuente-en-Cadena-AYED"]
-	path = 00_Fundamentos_y_Analisis/Caracter-Mas-Frecuente-en-Cadena-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Caracter-Mas-Frecuente-en-Cadena-AYED
 	url = https://github.com/JuanGuayazanC/Caracter-Mas-Frecuente-en-Cadena-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Area-de-Efecto-en-Matriz-AYED"]
-	path = 00_Fundamentos_y_Analisis/Area-de-Efecto-en-Matriz-AYED
+	path = 00_Fundamentos_de_Programacion/Area-de-Efecto-en-Matriz-AYED
 	url = https://github.com/JuanGuayazanC/Area-de-Efecto-en-Matriz-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Power-Sum-Recursivo-y-Memorizado-AYED"]
-	path = 03_Programacion_Dinamica/Power-Sum-Recursivo-y-Memorizado-AYED
+	path = 04_Programacion_Dinamica/Power-Sum-Recursivo-y-Memorizado-AYED
 	url = https://github.com/JuanGuayazanC/Power-Sum-Recursivo-y-Memorizado-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Grafos-BFS-DFS-y-Bellman-Ford-AYED"]
-	path = 06_Grafos/Grafos-BFS-DFS-y-Bellman-Ford-AYED
+	path = 07_Grafos/Grafos-BFS-DFS-y-Bellman-Ford-AYED
 	url = https://github.com/JuanGuayazanC/Grafos-BFS-DFS-y-Bellman-Ford-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Arbol-Binario-AYED"]
-	path = 05_Arboles/Arbol-Binario-AYED
+	path = 06_Arboles/Arbol-Binario-AYED
 	url = https://github.com/JuanGuayazanC/Arbol-Binario-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Listas-Pilas-y-Colas-Enlazadas-AYED"]
-	path = 04_Estructuras_Lineales/Listas-Pilas-y-Colas-Enlazadas-AYED
+	path = 05_Estructuras_Lineales/Listas-Pilas-y-Colas-Enlazadas-AYED
 	url = https://github.com/JuanGuayazanC/Listas-Pilas-y-Colas-Enlazadas-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Lista-Enlazada-con-Reversa-y-Union-AYED"]
-	path = 04_Estructuras_Lineales/Lista-Enlazada-con-Reversa-y-Union-AYED
+	path = 05_Estructuras_Lineales/Lista-Enlazada-con-Reversa-y-Union-AYED
 	url = https://github.com/JuanGuayazanC/Lista-Enlazada-con-Reversa-y-Union-AYED.git
 	branch = main
 [submodule "PracticaEnClase/Arboles-con-Rotacion-AYED"]
-	path = 05_Arboles/Arboles-con-Rotacion-AYED
+	path = 06_Arboles/Arboles-con-Rotacion-AYED
 	url = https://github.com/JuanGuayazanC/Arboles-con-Rotacion-AYED.git
 	branch = main
 [submodule "Recursos/Disjoint-Sets-AYED"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/Disjoint-Sets-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Disjoint-Sets-AYED
 	url = https://github.com/JuanGuayazanC/Disjoint-Sets-AYED.git
 	branch = main
 [submodule "Recursos/Hash-Tables-AYED"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/Hash-Tables-AYED
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Hash-Tables-AYED
 	url = https://github.com/JuanGuayazanC/Hash-Tables-AYED.git
 	branch = main
 [submodule "Proyectos/Patinaje-AYED"]
-	path = 09_Proyecto/Patinaje-AYED
+	path = 10_Proyecto/Patinaje-AYED
 	url = https://github.com/JuanGuayazanC/Patinaje-AYED.git
 	branch = main
-[submodule "Monitoria/DDYA"]
-	path = Monitoria/DDYA
-	url = https://github.com/JuanGuayazanC/Monitoria-DDYA.git
-	branch = main
 [submodule "00_Fundamentos_y_Analisis/Decoding-the-Message-Cascaron-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Decoding-the-Message-Cascaron-DDYA
+	path = 00_Fundamentos_de_Programacion/Decoding-the-Message-Cascaron-DDYA
 	url = https://github.com/JuanGuayazanC/Decoding-the-Message-Cascaron-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Encapsulamiento-Estudiante-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Encapsulamiento-Estudiante-DDYA
+	path = 00_Fundamentos_de_Programacion/Encapsulamiento-Estudiante-DDYA
 	url = https://github.com/JuanGuayazanC/Encapsulamiento-Estudiante-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Insertion-Sort-Estrategia-Incremental-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Insertion-Sort-Estrategia-Incremental-DDYA
+	path = 01_Analisis_y_Estrategia_Incremental/Insertion-Sort-Estrategia-Incremental-DDYA
 	url = https://github.com/JuanGuayazanC/Insertion-Sort-Estrategia-Incremental-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Presentacion-Estrategia-Incremental-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Presentacion-Estrategia-Incremental-DDYA
+	path = 01_Analisis_y_Estrategia_Incremental/Presentacion-Estrategia-Incremental-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Estrategia-Incremental-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Taller-Estructuras-Basicas-Python-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Taller-Estructuras-Basicas-Python-DDYA
+	path = 00_Fundamentos_de_Programacion/Taller-Estructuras-Basicas-Python-DDYA
 	url = https://github.com/JuanGuayazanC/Taller-Estructuras-Basicas-Python-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Taller-Invariantes-y-Analisis-Asintotico-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Taller-Invariantes-y-Analisis-Asintotico-DDYA
+	path = 01_Analisis_y_Estrategia_Incremental/Taller-Invariantes-y-Analisis-Asintotico-DDYA
 	url = https://github.com/JuanGuayazanC/Taller-Invariantes-y-Analisis-Asintotico-DDYA.git
 [submodule "00_Fundamentos_y_Analisis/Taller-Programacion-Python-DDYA"]
-	path = 00_Fundamentos_y_Analisis/Taller-Programacion-Python-DDYA
+	path = 00_Fundamentos_de_Programacion/Taller-Programacion-Python-DDYA
 	url = https://github.com/JuanGuayazanC/Taller-Programacion-Python-DDYA.git
 [submodule "01_Recursion/Busqueda-Binaria-Recursiva-DDYA"]
-	path = 01_Recursion/Busqueda-Binaria-Recursiva-DDYA
+	path = 02_Recursion/Busqueda-Binaria-Recursiva-DDYA
 	url = https://github.com/JuanGuayazanC/Busqueda-Binaria-Recursiva-DDYA.git
 [submodule "01_Recursion/Ejercicio-Recursion-Digitos-Pares-DDYA"]
-	path = 01_Recursion/Ejercicio-Recursion-Digitos-Pares-DDYA
+	path = 02_Recursion/Ejercicio-Recursion-Digitos-Pares-DDYA
 	url = https://github.com/JuanGuayazanC/Ejercicio-Recursion-Digitos-Pares-DDYA.git
 [submodule "01_Recursion/Laboratorio-Recursion-DDYA"]
-	path = 01_Recursion/Laboratorio-Recursion-DDYA
+	path = 02_Recursion/Laboratorio-Recursion-DDYA
 	url = https://github.com/JuanGuayazanC/Laboratorio-Recursion-DDYA.git
 [submodule "01_Recursion/Presentacion-Recursion-DDYA"]
-	path = 01_Recursion/Presentacion-Recursion-DDYA
+	path = 02_Recursion/Presentacion-Recursion-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Recursion-DDYA.git
 [submodule "01_Recursion/Seleccion-Recursivo-DDYA"]
-	path = 01_Recursion/Seleccion-Recursivo-DDYA
+	path = 02_Recursion/Seleccion-Recursivo-DDYA
 	url = https://github.com/JuanGuayazanC/Seleccion-Recursivo-DDYA.git
 [submodule "02_Dividir_y_Conquistar/Ejercicio-Teorema-Maestro-Contar-Mayores-DDYA"]
-	path = 02_Dividir_y_Conquistar/Ejercicio-Teorema-Maestro-Contar-Mayores-DDYA
+	path = 03_Dividir_y_Conquistar/Ejercicio-Teorema-Maestro-Contar-Mayores-DDYA
 	url = https://github.com/JuanGuayazanC/Ejercicio-Teorema-Maestro-Contar-Mayores-DDYA.git
 [submodule "02_Dividir_y_Conquistar/Merge-Sort-vs-Insertion-Sort-DDYA"]
-	path = 02_Dividir_y_Conquistar/Merge-Sort-vs-Insertion-Sort-DDYA
+	path = 03_Dividir_y_Conquistar/Merge-Sort-vs-Insertion-Sort-DDYA
 	url = https://github.com/JuanGuayazanC/Merge-Sort-vs-Insertion-Sort-DDYA.git
 [submodule "02_Dividir_y_Conquistar/Presentacion-Dividir-y-Conquistar-DDYA"]
-	path = 02_Dividir_y_Conquistar/Presentacion-Dividir-y-Conquistar-DDYA
+	path = 03_Dividir_y_Conquistar/Presentacion-Dividir-y-Conquistar-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Dividir-y-Conquistar-DDYA.git
 [submodule "03_Programacion_Dinamica/Cut-Rod-Memorizado-DDYA"]
-	path = 03_Programacion_Dinamica/Cut-Rod-Memorizado-DDYA
+	path = 04_Programacion_Dinamica/Cut-Rod-Memorizado-DDYA
 	url = https://github.com/JuanGuayazanC/Cut-Rod-Memorizado-DDYA.git
 [submodule "03_Programacion_Dinamica/Fibonacci-Memorizado-DDYA"]
-	path = 03_Programacion_Dinamica/Fibonacci-Memorizado-DDYA
+	path = 04_Programacion_Dinamica/Fibonacci-Memorizado-DDYA
 	url = https://github.com/JuanGuayazanC/Fibonacci-Memorizado-DDYA.git
 [submodule "03_Programacion_Dinamica/Laboratorio-Memorizacion-DDYA"]
-	path = 03_Programacion_Dinamica/Laboratorio-Memorizacion-DDYA
+	path = 04_Programacion_Dinamica/Laboratorio-Memorizacion-DDYA
 	url = https://github.com/JuanGuayazanC/Laboratorio-Memorizacion-DDYA.git
 [submodule "03_Programacion_Dinamica/Presentacion-Programacion-Dinamica-DDYA"]
-	path = 03_Programacion_Dinamica/Presentacion-Programacion-Dinamica-DDYA
+	path = 04_Programacion_Dinamica/Presentacion-Programacion-Dinamica-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Programacion-Dinamica-DDYA.git
 [submodule "04_Estructuras_Lineales/Control-de-Lectura-Estructuras-Lineales-DDYA"]
-	path = 04_Estructuras_Lineales/Control-de-Lectura-Estructuras-Lineales-DDYA
+	path = 05_Estructuras_Lineales/Control-de-Lectura-Estructuras-Lineales-DDYA
 	url = https://github.com/JuanGuayazanC/Control-de-Lectura-Estructuras-Lineales-DDYA.git
 [submodule "04_Estructuras_Lineales/Laboratorio-Listas-Enlazadas-DDYA"]
-	path = 04_Estructuras_Lineales/Laboratorio-Listas-Enlazadas-DDYA
+	path = 05_Estructuras_Lineales/Laboratorio-Listas-Enlazadas-DDYA
 	url = https://github.com/JuanGuayazanC/Laboratorio-Listas-Enlazadas-DDYA.git
 [submodule "04_Estructuras_Lineales/Presentacion-Estructuras-Lineales-DDYA"]
-	path = 04_Estructuras_Lineales/Presentacion-Estructuras-Lineales-DDYA
+	path = 05_Estructuras_Lineales/Presentacion-Estructuras-Lineales-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Estructuras-Lineales-DDYA.git
 [submodule "05_Arboles/Clase-Base-BinaryTree-DDYA"]
-	path = 05_Arboles/Clase-Base-BinaryTree-DDYA
+	path = 06_Arboles/Clase-Base-BinaryTree-DDYA
 	url = https://github.com/JuanGuayazanC/Clase-Base-BinaryTree-DDYA.git
 [submodule "05_Arboles/Control-de-Lectura-Arboles-DDYA"]
-	path = 05_Arboles/Control-de-Lectura-Arboles-DDYA
+	path = 06_Arboles/Control-de-Lectura-Arboles-DDYA
 	url = https://github.com/JuanGuayazanC/Control-de-Lectura-Arboles-DDYA.git
 [submodule "05_Arboles/Presentacion-Arboles-DDYA"]
-	path = 05_Arboles/Presentacion-Arboles-DDYA
+	path = 06_Arboles/Presentacion-Arboles-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Arboles-DDYA.git
 [submodule "06_Grafos/Presentacion-Grafos-DDYA"]
-	path = 06_Grafos/Presentacion-Grafos-DDYA
+	path = 07_Grafos/Presentacion-Grafos-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Grafos-DDYA.git
 [submodule "07_Montones_y_Colas_de_Prioridad/Control-de-Lectura-Montones-DDYA"]
-	path = 07_Montones_y_Colas_de_Prioridad/Control-de-Lectura-Montones-DDYA
+	path = 08_Montones_y_Colas_de_Prioridad/Control-de-Lectura-Montones-DDYA
 	url = https://github.com/JuanGuayazanC/Control-de-Lectura-Montones-DDYA.git
 [submodule "07_Montones_y_Colas_de_Prioridad/Ejercicio-Error-en-el-Monton-DDYA"]
-	path = 07_Montones_y_Colas_de_Prioridad/Ejercicio-Error-en-el-Monton-DDYA
+	path = 08_Montones_y_Colas_de_Prioridad/Ejercicio-Error-en-el-Monton-DDYA
 	url = https://github.com/JuanGuayazanC/Ejercicio-Error-en-el-Monton-DDYA.git
 [submodule "07_Montones_y_Colas_de_Prioridad/Laboratorio-Montones-Colas-de-Prioridad-DDYA"]
-	path = 07_Montones_y_Colas_de_Prioridad/Laboratorio-Montones-Colas-de-Prioridad-DDYA
+	path = 08_Montones_y_Colas_de_Prioridad/Laboratorio-Montones-Colas-de-Prioridad-DDYA
 	url = https://github.com/JuanGuayazanC/Laboratorio-Montones-Colas-de-Prioridad-DDYA.git
 [submodule "07_Montones_y_Colas_de_Prioridad/Presentacion-Montones-y-Colas-de-Prioridad-DDYA"]
-	path = 07_Montones_y_Colas_de_Prioridad/Presentacion-Montones-y-Colas-de-Prioridad-DDYA
+	path = 08_Montones_y_Colas_de_Prioridad/Presentacion-Montones-y-Colas-de-Prioridad-DDYA
 	url = https://github.com/JuanGuayazanC/Presentacion-Montones-y-Colas-de-Prioridad-DDYA.git
 [submodule "08_Tablas_Hash_y_Conjuntos_Disyuntos/Control-de-Lectura-Tablas-Hash-y-Disyuntos-DDYA"]
-	path = 08_Tablas_Hash_y_Conjuntos_Disyuntos/Control-de-Lectura-Tablas-Hash-y-Disyuntos-DDYA
+	path = 09_Tablas_Hash_y_Conjuntos_Disyuntos/Control-de-Lectura-Tablas-Hash-y-Disyuntos-DDYA
 	url = https://github.com/JuanGuayazanC/Control-de-Lectura-Tablas-Hash-y-Disyuntos-DDYA.git
 [submodule "10_Evaluaciones_Integradoras/Preparcial-1-Teorico-DDYA"]
-	path = 10_Evaluaciones_Integradoras/Preparcial-1-Teorico-DDYA
+	path = 11_Evaluaciones_Integradoras/Preparcial-1-Teorico-DDYA
 	url = https://github.com/JuanGuayazanC/Preparcial-1-Teorico-DDYA.git
 [submodule "10_Evaluaciones_Integradoras/Preparcial-2-DDYA"]
-	path = 10_Evaluaciones_Integradoras/Preparcial-2-DDYA
+	path = 11_Evaluaciones_Integradoras/Preparcial-2-DDYA
 	url = https://github.com/JuanGuayazanC/Preparcial-2-DDYA.git
+[submodule "01_Analisis_y_Estrategia_Incremental/Autoestudio-Estrategia-Incremental-DDYA"]
+	path = 01_Analisis_y_Estrategia_Incremental/Autoestudio-Estrategia-Incremental-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Estrategia-Incremental-DDYA.git
+[submodule "03_Dividir_y_Conquistar/Autoestudio-Dividir-y-Conquistar-DDYA"]
+	path = 03_Dividir_y_Conquistar/Autoestudio-Dividir-y-Conquistar-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Dividir-y-Conquistar-DDYA.git
+[submodule "04_Programacion_Dinamica/Autoestudio-Programacion-Dinamica-DDYA"]
+	path = 04_Programacion_Dinamica/Autoestudio-Programacion-Dinamica-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Programacion-Dinamica-DDYA.git
+[submodule "05_Estructuras_Lineales/Autoestudio-Estructuras-Lineales-DDYA"]
+	path = 05_Estructuras_Lineales/Autoestudio-Estructuras-Lineales-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Estructuras-Lineales-DDYA.git
+[submodule "06_Arboles/Autoestudio-Arboles-DDYA"]
+	path = 06_Arboles/Autoestudio-Arboles-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Arboles-DDYA.git
+[submodule "07_Grafos/Autoestudio-Grafos-DDYA"]
+	path = 07_Grafos/Autoestudio-Grafos-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Grafos-DDYA.git
+[submodule "07_Grafos/Autoestudio-Caminos-Mas-Cortos-DDYA"]
+	path = 07_Grafos/Autoestudio-Caminos-Mas-Cortos-DDYA
+	url = https://github.com/JuanGuayazanC/Autoestudio-Caminos-Mas-Cortos-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Arenas-Tercio-1-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Arenas-Tercio-1-DDYA
+	url = https://github.com/JuanGuayazanC/Arenas-Tercio-1-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Arenas-Tercio-2-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Arenas-Tercio-2-DDYA
+	url = https://github.com/JuanGuayazanC/Arenas-Tercio-2-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Arenas-Tercio-3-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Arenas-Tercio-3-DDYA
+	url = https://github.com/JuanGuayazanC/Arenas-Tercio-3-DDYA.git
+[submodule "00_Fundamentos_de_Programacion/Laboratorio-Introduccion-a-Jupyter-DDYA"]
+	path = 00_Fundamentos_de_Programacion/Laboratorio-Introduccion-a-Jupyter-DDYA
+	url = https://github.com/JuanGuayazanC/Laboratorio-Introduccion-a-Jupyter-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Parcial-Final-Practico-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Parcial-Final-Practico-DDYA
+	url = https://github.com/JuanGuayazanC/Parcial-Final-Practico-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Formato-de-Soluciones-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Formato-de-Soluciones-DDYA
+	url = https://github.com/JuanGuayazanC/Formato-de-Soluciones-DDYA.git

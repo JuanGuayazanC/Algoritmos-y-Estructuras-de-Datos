@@ -18,4 +18,6 @@ Material del profesor, publicado con su autorización, solo enunciado y sin reso
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Autoestudio Caminos Mas Cortos](Autoestudio-Caminos-Mas-Cortos-DDYA) | Autoestudio | 2025-2 |
+| [Autoestudio Grafos](Autoestudio-Grafos-DDYA) | Autoestudio | 2025-2 |
 | [Presentacion Grafos](Presentacion-Grafos-DDYA) | Presentación de clase | 2026-2 |

@@ -26,4 +26,5 @@ Material del profesor, publicado con su autorización, solo enunciado y sin reso
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Autoestudio Dividir y Conquistar](Autoestudio-Dividir-y-Conquistar-DDYA) | Autoestudio | 2025-2 |
 | [Presentacion Dividir y Conquistar](Presentacion-Dividir-y-Conquistar-DDYA) | Presentación de clase | 2026-2 |

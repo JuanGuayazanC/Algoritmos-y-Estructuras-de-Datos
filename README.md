@@ -15,24 +15,25 @@ Estudiante del curso en 2024-1, cuando se llamaba Algoritmos y Estructuras de Da
 
 ```
 Algoritmos-y-Estructuras-de-Datos/
-├── 00_Fundamentos_y_Analisis/
-│   ├── Analisis-de-Complejidad-AYED/
+├── 00_Fundamentos_de_Programacion/
 │   ├── Area-de-Efecto-en-Matriz-AYED/
-│   ├── Caracter-Frecuente-y-Palindromo-AYED/
-│   ├── Caracter-Mas-Frecuente-en-Cadena-AYED/
 │   ├── Clase-Estudiante-AYED/
 │   ├── Decoding-the-Message-AYED/
 │   ├── Decoding-the-Message-Cascaron-DDYA/
 │   ├── Encapsulamiento-Estudiante-DDYA/
+│   ├── Laboratorio-Introduccion-a-Jupyter-DDYA/
+│   ├── Numeros-Primos-AYED/
+│   ├── Taller-Estructuras-Basicas-Python-DDYA/
+│   └── Taller-Programacion-Python-DDYA/
+├── 01_Analisis_y_Estrategia_Incremental/
+│   ├── Analisis-de-Complejidad-AYED/
+│   ├── Autoestudio-Estrategia-Incremental-DDYA/
 │   ├── Insertion-Sort-AYED/
 │   ├── Insertion-Sort-Descendente-AYED/
 │   ├── Insertion-Sort-Estrategia-Incremental-DDYA/
-│   ├── Numeros-Primos-AYED/
 │   ├── Presentacion-Estrategia-Incremental-DDYA/
-│   ├── Taller-Estructuras-Basicas-Python-DDYA/
-│   ├── Taller-Invariantes-y-Analisis-Asintotico-DDYA/
-│   └── Taller-Programacion-Python-DDYA/
-├── 01_Recursion/
+│   └── Taller-Invariantes-y-Analisis-Asintotico-DDYA/
+├── 02_Recursion/
 │   ├── Busqueda-Binaria-Recursiva-DDYA/
 │   ├── Ejercicio-Recursion-Digitos-Pares-DDYA/
 │   ├── Laboratorio-Recursion-DDYA/
@@ -41,20 +42,23 @@ Algoritmos-y-Estructuras-de-Datos/
 │   ├── Seleccion-Recursivo-DDYA/
 │   ├── Taller-Recursion-AYED/
 │   └── The-Power-Sum-AYED/
-├── 02_Dividir_y_Conquistar/
+├── 03_Dividir_y_Conquistar/
+│   ├── Autoestudio-Dividir-y-Conquistar-DDYA/
 │   ├── Dividir-y-Conquistar-AYED/
 │   ├── Ejercicio-Teorema-Maestro-Contar-Mayores-DDYA/
 │   ├── Merge-Sort-vs-Insertion-Sort-DDYA/
 │   ├── Parcial-Divide-y-Venceras-AYED/
 │   └── Presentacion-Dividir-y-Conquistar-DDYA/
-├── 03_Programacion_Dinamica/
+├── 04_Programacion_Dinamica/
+│   ├── Autoestudio-Programacion-Dinamica-DDYA/
 │   ├── Cut-Rod-Memorizado-DDYA/
 │   ├── Fibonacci-AYED/
 │   ├── Fibonacci-Memorizado-DDYA/
 │   ├── Laboratorio-Memorizacion-DDYA/
 │   ├── Power-Sum-Recursivo-y-Memorizado-AYED/
 │   └── Presentacion-Programacion-Dinamica-DDYA/
-├── 04_Estructuras_Lineales/
+├── 05_Estructuras_Lineales/
+│   ├── Autoestudio-Estructuras-Lineales-DDYA/
 │   ├── Control-Estructuras-Lineales-AYED/
 │   ├── Control-de-Lectura-Estructuras-Lineales-DDYA/
 │   ├── Laboratorio-Listas-Enlazadas-DDYA/
@@ -65,39 +69,50 @@ Algoritmos-y-Estructuras-de-Datos/
 │   ├── Parentesis-Balanceados-AYED/
 │   ├── Presentacion-Estructuras-Lineales-DDYA/
 │   └── Throwing-Cards-Away-AYED/
-├── 05_Arboles/
+├── 06_Arboles/
 │   ├── Arbol-Binario-AYED/
 │   ├── Arboles-con-Rotacion-AYED/
+│   ├── Autoestudio-Arboles-DDYA/
 │   ├── Clase-Base-BinaryTree-DDYA/
 │   ├── Control-de-Lectura-Arboles-DDYA/
 │   └── Presentacion-Arboles-DDYA/
-├── 06_Grafos/
+├── 07_Grafos/
+│   ├── Autoestudio-Caminos-Mas-Cortos-DDYA/
+│   ├── Autoestudio-Grafos-DDYA/
 │   ├── Bicoloring-AYED/
 │   ├── Grafos-Adyacencia-y-Recorridos-AYED/
 │   ├── Grafos-BFS-DFS-y-Bellman-Ford-AYED/
 │   └── Presentacion-Grafos-DDYA/
-├── 07_Montones_y_Colas_de_Prioridad/
+├── 08_Montones_y_Colas_de_Prioridad/
 │   ├── Control-de-Lectura-Montones-DDYA/
 │   ├── Ejercicio-Error-en-el-Monton-DDYA/
 │   ├── Heap-AYED/
 │   ├── Laboratorio-Montones-Colas-de-Prioridad-DDYA/
 │   ├── Montones-Binarios-AYED/
 │   └── Presentacion-Montones-y-Colas-de-Prioridad-DDYA/
-├── 08_Tablas_Hash_y_Conjuntos_Disyuntos/
+├── 09_Tablas_Hash_y_Conjuntos_Disyuntos/
+│   ├── Caracter-Frecuente-y-Palindromo-AYED/
+│   ├── Caracter-Mas-Frecuente-en-Cadena-AYED/
 │   ├── Conexiones-AYED/
 │   ├── Control-de-Lectura-Tablas-Hash-y-Disyuntos-DDYA/
 │   ├── Disjoint-Sets-AYED/
 │   ├── Hash-Tables-AYED/
 │   ├── HashTable-y-Disjuntos-AYED/
 │   └── Snipping-Tool-Print-Job-AYED/
-├── 09_Proyecto/
+├── 10_Proyecto/
 │   └── Patinaje-AYED/
-├── 10_Evaluaciones_Integradoras/
+├── 11_Evaluaciones_Integradoras/
+│   ├── Arenas-Tercio-1-DDYA/
+│   ├── Arenas-Tercio-2-DDYA/
+│   ├── Arenas-Tercio-3-DDYA/
+│   ├── Formato-de-Soluciones-DDYA/
+│   ├── Parcial-Final-Practico-DDYA/
 │   ├── Preparcial-1-Teorico-DDYA/
 │   └── Preparcial-2-DDYA/
-└── Monitoria/
-    └── DDYA/
+└── Microcurriculo-DDYA.md
 ```
+
+El microcurrículo oficial de DDYA está en [Microcurriculo-DDYA.md](Microcurriculo-DDYA.md).
 
 ## Temas del curso
 
@@ -116,7 +131,6 @@ Algoritmos-y-Estructuras-de-Datos/
 - Cada repositorio corresponde a una actividad puntual (arena, control de lectura, informe, laboratorio, parcial, preparcial o práctica en clase); el tipo de actividad está indicado en la descripción de cada repositorio, no en su nombre.
 - Cuando dos archivos eran versiones sucesivas de un mismo ejercicio (el segundo extendía al primero con nueva funcionalidad), se conservaron en un solo repositorio con dos commits secuenciales para mantener la trazabilidad de esa evolución, en vez de crear repositorios separados.
 - El proyecto del curso (`Patinaje-AYED`) tiene una estructura de README distinta a la del resto de actividades académicas, ya que corresponde a un proyecto de software y no a una entrega puntual.
-- La carpeta `Monitoria/DDYA/` es un submódulo (repositorio [Monitoria-DDYA](https://github.com/JuanGuayazanC/Monitoria-DDYA)), con el material elaborado como monitor del curso Diseño de Datos y Algoritmos (DDYA), homologado con AYED.
 
 ## Herramientas
 
@@ -129,7 +143,7 @@ Sebastian Camilo Martinez Reyes.
 
 ## Cómo usar este repositorio
 
-Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por tema (`00_Fundamentos_y_Analisis/`, `01_Recursion/`, … `10_Evaluaciones_Integradoras/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por tema (`00_Fundamentos_de_Programacion/`, `01_Analisis_y_Estrategia_Incremental/`, … `11_Evaluaciones_Integradoras/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
 
 - **Para estudiar un tema**: entra a su carpeta; el README de cada tema lista las actividades y su tipo.
 - **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.

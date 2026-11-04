@@ -22,6 +22,7 @@ Material del profesor, publicado con su autorización, solo enunciado y sin reso
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Autoestudio Estructuras Lineales](Autoestudio-Estructuras-Lineales-DDYA) | Autoestudio | 2025-2 |
 | [Control de Lectura Estructuras Lineales](Control-de-Lectura-Estructuras-Lineales-DDYA) | Control de lectura | 2026-2 |
 | [Laboratorio Listas Enlazadas](Laboratorio-Listas-Enlazadas-DDYA) | Laboratorio | 2026-2 |
 | [Presentacion Estructuras Lineales](Presentacion-Estructuras-Lineales-DDYA) | Presentación de clase | 2026-2 |

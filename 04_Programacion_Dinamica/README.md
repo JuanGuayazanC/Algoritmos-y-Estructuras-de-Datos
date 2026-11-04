@@ -26,5 +26,6 @@ Material del profesor, publicado con su autorización, solo enunciado y sin reso
 
 | Actividad | Tipo | Semestre |
 |---|---|---|
+| [Autoestudio Programacion Dinamica](Autoestudio-Programacion-Dinamica-DDYA) | Autoestudio | 2025-2 |
 | [Laboratorio Memorizacion](Laboratorio-Memorizacion-DDYA) | Laboratorio | 2026-2 |
 | [Presentacion Programacion Dinamica](Presentacion-Programacion-Dinamica-DDYA) | Presentación de clase | 2026-2 |
