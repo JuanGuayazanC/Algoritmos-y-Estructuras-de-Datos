@@ -12,6 +12,14 @@ Actividades del curso (cuando se llamaba AYED).
 | [Grafos Adyacencia y Recorridos](Grafos-Adyacencia-y-Recorridos-AYED) | Laboratorio | 2024-1 |
 | [Grafos BFS DFS y Bellman Ford](Grafos-BFS-DFS-y-Bellman-Ford-AYED) | Práctica en clase | 2024-1 |
 
+## Ejercicios y material de repaso
+
+Ejercicios de refuerzo y ejemplos trabajados en clase.
+
+| Actividad | Tipo | Semestre |
+|---|---|---|
+| [Ejercicio Cableado de Oficinas](Ejercicio-Cableado-de-Oficinas-DDYA) | Ejercicio de refuerzo | 2026-2 |
+
 ## Enunciados y material del curso
 
 Material del profesor, publicado con su autorización, solo enunciado y sin resolver.
