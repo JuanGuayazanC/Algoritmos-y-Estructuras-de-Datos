@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos (AYED)
 
-Agrupa las arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos de apoyo y el proyecto del curso.
+Material de apoyo del curso organizado por tema: arenas, controles de lectura, informes, laboratorios, parciales, preparciales, prácticas en clase, recursos y el proyecto.
 
 Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
@@ -13,50 +13,51 @@ Escuela Colombiana de Ingeniería Julio Garavito
 
 ```
 Algoritmos-y-Estructuras-de-Datos/
-├── Arenas/
-│   ├── The-Power-Sum-AYED/
-│   ├── Throwing-Cards-Away-AYED/
-│   ├── Parentesis-Balanceados-AYED/
-│   ├── Lista-Enlazada-Basica-AYED/
-│   ├── Bicoloring-AYED/
-│   ├── Heap-AYED/
-│   ├── Conexiones-AYED/
-│   └── Snipping-Tool-Print-Job-AYED/
-├── ControlesDeLectura/
-│   ├── Insertion-Sort-Descendente-AYED/
-│   ├── Recursion-sobre-Arreglos-AYED/
-│   └── Control-Estructuras-Lineales-AYED/
-├── Informes/
-│   └── Taller-Recursion-AYED/
-├── Laboratorios/
-│   ├── Dividir-y-Conquistar-AYED/
-│   ├── Caracter-Frecuente-y-Palindromo-AYED/
-│   ├── Decoding-the-Message-AYED/
-│   ├── HashTable-y-Disjuntos-AYED/
-│   ├── Montones-Binarios-AYED/
-│   └── Grafos-Adyacencia-y-Recorridos-AYED/
-├── Parciales/
-│   ├── Parcial-Divide-y-Venceras-AYED/
-│   └── Parcial-Estructuras-Enlazadas-AYED/
-├── Preparciales/
-│   └── Numeros-Primos-AYED/
-├── PracticaEnClase/
+├── 00_Fundamentos_y_Analisis/
 │   ├── Analisis-de-Complejidad-AYED/
-│   ├── Clase-Estudiante-AYED/
-│   ├── Fibonacci-AYED/
-│   ├── Insertion-Sort-AYED/
-│   ├── Caracter-Mas-Frecuente-en-Cadena-AYED/
 │   ├── Area-de-Efecto-en-Matriz-AYED/
-│   ├── Power-Sum-Recursivo-y-Memorizado-AYED/
-│   ├── Grafos-BFS-DFS-y-Bellman-Ford-AYED/
-│   ├── Arbol-Binario-AYED/
-│   ├── Listas-Pilas-y-Colas-Enlazadas-AYED/
+│   ├── Caracter-Frecuente-y-Palindromo-AYED/
+│   ├── Caracter-Mas-Frecuente-en-Cadena-AYED/
+│   ├── Clase-Estudiante-AYED/
+│   ├── Decoding-the-Message-AYED/
+│   ├── Insertion-Sort-AYED/
+│   ├── Insertion-Sort-Descendente-AYED/
+│   └── Numeros-Primos-AYED/
+├── 01_Recursion/
+│   ├── Recursion-sobre-Arreglos-AYED/
+│   ├── Taller-Recursion-AYED/
+│   └── The-Power-Sum-AYED/
+├── 02_Dividir_y_Conquistar/
+│   ├── Dividir-y-Conquistar-AYED/
+│   └── Parcial-Divide-y-Venceras-AYED/
+├── 03_Programacion_Dinamica/
+│   ├── Fibonacci-AYED/
+│   └── Power-Sum-Recursivo-y-Memorizado-AYED/
+├── 04_Estructuras_Lineales/
+│   ├── Control-Estructuras-Lineales-AYED/
+│   ├── Lista-Enlazada-Basica-AYED/
 │   ├── Lista-Enlazada-con-Reversa-y-Union-AYED/
+│   ├── Listas-Pilas-y-Colas-Enlazadas-AYED/
+│   ├── Parcial-Estructuras-Enlazadas-AYED/
+│   ├── Parentesis-Balanceados-AYED/
+│   └── Throwing-Cards-Away-AYED/
+├── 05_Arboles/
+│   ├── Arbol-Binario-AYED/
 │   └── Arboles-con-Rotacion-AYED/
-├── Recursos/
+├── 06_Grafos/
+│   ├── Bicoloring-AYED/
+│   ├── Grafos-Adyacencia-y-Recorridos-AYED/
+│   └── Grafos-BFS-DFS-y-Bellman-Ford-AYED/
+├── 07_Montones_y_Colas_de_Prioridad/
+│   ├── Heap-AYED/
+│   └── Montones-Binarios-AYED/
+├── 08_Tablas_Hash_y_Conjuntos_Disyuntos/
+│   ├── Conexiones-AYED/
 │   ├── Disjoint-Sets-AYED/
-│   └── Hash-Tables-AYED/
-├── Proyectos/
+│   ├── Hash-Tables-AYED/
+│   ├── HashTable-y-Disjuntos-AYED/
+│   └── Snipping-Tool-Print-Job-AYED/
+├── 09_Proyecto/
 │   └── Patinaje-AYED/
 └── Monitoria/
     └── DDYA/
@@ -92,8 +93,9 @@ Sebastian Camilo Martinez Reyes.
 
 ## Cómo usar este repositorio
 
-Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por carpetas (`Arenas/`, `ControlesDeLectura/`, `Informes/`, `Laboratorios/`, `Parciales/`, `Preparciales/`, `PracticaEnClase/`, `Recursos/`, `Proyectos/`, `Monitoria/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+Este repositorio no contiene código directamente: es una colección de repositorios independientes, uno por actividad, organizados por tema (`00_Fundamentos_y_Analisis/`, `01_Recursion/`, … `09_Proyecto/`). Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
 
+- **Para estudiar un tema**: entra a su carpeta; el README de cada tema lista las actividades y su tipo.
 - **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
 - **Para tener todo el contenido en tu máquina**:
 
