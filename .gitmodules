@@ -280,3 +280,6 @@
 [submodule "11_Evaluaciones_Integradoras/Formato-de-Soluciones-DDYA"]
 	path = 11_Evaluaciones_Integradoras/Formato-de-Soluciones-DDYA
 	url = https://github.com/JuanGuayazanC/Formato-de-Soluciones-DDYA.git
+[submodule "11_Evaluaciones_Integradoras/Ejercicio-Trazas-del-Tercer-Tercio-DDYA"]
+	path = 11_Evaluaciones_Integradoras/Ejercicio-Trazas-del-Tercer-Tercio-DDYA
+	url = https://github.com/JuanGuayazanC/Ejercicio-Trazas-del-Tercer-Tercio-DDYA.git
