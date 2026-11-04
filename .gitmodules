@@ -282,6 +282,4 @@
 	url = https://github.com/JuanGuayazanC/Formato-de-Soluciones-DDYA.git
 [submodule "11_Evaluaciones_Integradoras/Ejercicio-Trazas-del-Tercer-Tercio-DDYA"]
 	path = 07_Grafos/Ejercicio-Cableado-de-Oficinas-DDYA
-	url = https://github.com/JuanGuayazanC/Ejercicio-Trazas-del-Tercer-Tercio-DDYA.git
-[submodule "07_Grafos/Ejercicio-Cableado-de-Oficinas-DDYA"]
 	url = https://github.com/JuanGuayazanC/Ejercicio-Cableado-de-Oficinas-DDYA.git
